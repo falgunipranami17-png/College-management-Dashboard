@@ -1,10 +1,11 @@
 College Management Dashboard
-<br>
+<br><br>
 About: <br>
-A simple College Management System built using Python, Flask, SQLAlchemy, SQLite, HTML, and CSS.<br>
-This project provides a single-page dashboard for managing students, branches, clubs, profiles, and student-club assignments.
 <br>
-Features:<br>
+A simple College Management System built using Python, Flask, SQLAlchemy, SQLite, HTML, and CSS.<br><br>
+This project provides a single-page dashboard for managing students, branches, clubs, profiles, and student-club assignments.
+<br><br>
+Features:<br><br>
 Add new branches<br>
 Delete branches<br>
 Add new clubs<br>
@@ -19,8 +20,8 @@ Add student profile/bio<br>
 Display students, branches, and clubs dynamically<br>
 SQLite database using SQLAlchemy ORM<br>
 Responsive web interface<br>
-
-Technologies Used:<br>
+<br>
+Technologies Used:<br><br>
 Python<br>
 Flask<br>
 SQLAlchemy<br>
